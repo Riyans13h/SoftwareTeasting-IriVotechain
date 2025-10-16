@@ -1,7 +1,7 @@
 # Student Attendance System – User Manual
 
 ## 1. Introduction
-The Student Attendance System are a web-based tool that helps teachers and administrators to mark, track, and analyze student attendance efficiently. It provides reports, dashboards, and notifications for easy management. The system aims to reduce manual effort and provide accurate information.
+The Student Attendance System is a web-based tool that helps teachers and administrators to mark, track, and analyze student attendance efficiently. It provides reports, dashboards, and notifications for easy management. The system aims to reduce manual effort and provide accurate information.
 
 ## 2. System Requirements
 - Operating System: Windows / Linux / macOS
@@ -18,7 +18,7 @@ The Student Attendance System are a web-based tool that helps teachers and admin
 6. Configure the database settings.
 7. Optional: Enable notifications.
 
-## 4. Faatures
+## 4. Features
 - Add, edit, and remove student records.
 - Daily attendance marking.
 - Generate reports in CSV and PDF formats.
@@ -58,7 +58,7 @@ For any issues, contact our support team:
 - Phone: +1-234-567-890
 - Live Chat available on the website
 
-## 9. Nates
+## 9. Notes
 - Always backup your data regularly.
 - Ensure your browser is up to date.
 - Some features may require admin access.
